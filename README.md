@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p><br>
 <div align=center>
-	<p> ✉ SNS  & Blog ✉</p>
+	<p> ✉ Blog  & Mail ✉</p>
 </div>
 <div align=center>
 	<a href="https://hyse16.github.io">
