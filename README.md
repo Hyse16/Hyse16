@@ -27,6 +27,5 @@
 
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyse16&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=Hyse16&show_icons=true">
+
 </br>
