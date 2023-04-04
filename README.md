@@ -22,14 +22,13 @@
 	<a href="mailto:aa3324296@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
+	[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://sweet-beech-4bf.notion.site/2d2e4abe641540c99d64ef3c41cf12b2
+)
 </div>
 
 
 
-<div align=center>
-	<노션>
-	<br>
-	https://sweet-beech-4bf.notion.site/2d2e4abe641540c99d64ef3c41cf12b2
-	<br>
+
+	
 	
 
