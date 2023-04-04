@@ -13,7 +13,7 @@
    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p><br>
 <div align=center>
-	<p> ✉ Blog  & Mail ✉</p>
+	<p> ✉ Blog  & Mail & Portfolio ✉</p>
 </div>
 <div align=center>
 	<a href="https://hyse16.github.io">
@@ -23,7 +23,7 @@
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://sweet-beech-4bf.notion.site/2d2e4abe641540c99d64ef3c41cf12b2">
-		<img src="https://img.shields.io/badge/Notion-0000?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Notion-0000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 
 </div>
