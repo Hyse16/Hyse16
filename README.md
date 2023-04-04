@@ -24,7 +24,11 @@
 	</a>
 </div>
 
-<div align=center>
-	<br>
 
+
+<div align=center>
+	<노션>
+	https://sweet-beech-4bf.notion.site/2d2e4abe641540c99d64ef3c41cf12b2
+	<br>
+	
 </br>
