@@ -1,4 +1,3 @@
-![image](https://github.com/Hyse16/Hyse16/assets/97417045/73a00622-1043-441e-802c-e7293d8c8149)
 <p align="center">
 
 ##  😃 Who Am I
