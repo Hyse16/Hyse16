@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007396&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Web+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007396&center=true&vCenter=true&width=500&lines=Hi!+Welcome+to+my+GitHub!" alt="Typing SVG" />
   <br><br>
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #28303f;"> 👨‍💻 About Me </h2>
@@ -8,9 +8,9 @@
     <p>
       안정적인 결제 흐름을 설계하고 백오피스 환경을 고도화해 온 웹 개발자입니다.<br>
       단순히 돌아가는 코드를 넘어서, 대용량 데이터 앞에서도 흔들림 없는 시스템을 만드는 데 관심이 많죠.<br>
-      청크(Chunk) 단위 배치로 메모리 한계를 극복하고, 저장 프로시저를 활용해 DB 병목을 해결했던 경험은 제게 큰 자산이 되었어요.<br>
-      수많은 REST API를 엮어내며 멈추지 않는 서비스를 치열하게 고민합니다.<br>
-      사용자의 신뢰를 지키고, 동료의 업무 효율을 높이는 단단한 아키텍처. 그것이 제가 추구하는 개발의 방향성이에요.
+      최근에는 생성형 AI가 가져올 무한한 가능성에 매료되어, 이미지와 영상 생성 등 다채로운 AI 기술을 깊이 탐구하고 있습니다.<br>
+      견고하게 다져온 백엔드 역량을 바탕으로 혁신적인 AI 기술을 시스템에 안정적으로 연동하여, 사용자에게 새롭고 창의적인 경험을 제공하고 싶습니다.<br>
+      신뢰할 수 있는 아키텍처와 트렌디한 AI 기술을 이어주는 든든한 다리 역할을 하는 개발자로 성장해 나가겠습니다.
     </p>
   </div>
 
